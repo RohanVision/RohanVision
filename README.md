@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on - A highly scalable, responsive design video streaming platform.<br>I'm currently learning - React JS, JavaScript, TailwindCSS<br>Developing scalable web applications, responsive design, and integrating front-end technologies 
+Developing scalable web applications, responsive design, and integrating front-end technologies 
 
 
 ## 🌐 Socials:
